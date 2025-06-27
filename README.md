@@ -101,7 +101,7 @@ The project was developed in the following phases:
 ## ✅ How to Run Locally
 
 ```bash
-git clone 
+git clone https://github.com/tharun1580/GrainPalette-A-Deep-Learning-Odyssey
 cd Grain_Palette
 pip install -r requirements.txt
 python app.py
